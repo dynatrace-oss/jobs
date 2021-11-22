@@ -1,6 +1,6 @@
-# Open Source jobs at Dynatrace
+<p align="center"><img src="images/dynatrace-wide.png" alt="FaaScinator"></p>
 
-<img style="float: right;" src="images/logo_200.png">
+# Open Source jobs at Dynatrace
 
 At Dynatrace we believe that actively contributing to the Open-Source community
 is the basis for innovation and building better software together.
