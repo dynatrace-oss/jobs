@@ -1,5 +1,7 @@
 # Open Source jobs at Dynatrace
 
+<img style="float: right;" src="images/logo_200.png">
+
 At Dynatrace we believe that actively contributing to the Open-Source community
 is the basis for innovation and building better software together.
 The company and its employees actively contribute to 
