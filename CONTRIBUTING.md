@@ -2,11 +2,11 @@
 
 This repository is open for contributions by any Dynatrace employee or external visitor.
 
-## Want to suggest a change
+## Want to suggest a change?
 
 Just submit a pull request to the repository!
 
-## Issues and suggestins
+## Issues and suggestions
 
 See an issue inside this repository or in a posted position?
 Want to suggest an improvement?
