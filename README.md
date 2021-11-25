@@ -45,7 +45,7 @@ If you are interested in all other job postings, go to the [Dynatrace careers po
 - [Global Lead - Developer Relations @ Open Security](https://careers.dynatrace.com/jobs/0ffafd11-5b66-4194-bf0a-24c26bbe5642/), any office or remote
   - Lead and facilitate developer relations in the open security area,
     with focus on combining open source technologies with the Dynatrace platform
-  - Work with open source communities, foundations (esp. CNCF/CDF/OpenSSF), customers, partners and end users
+  - Work with FOSS communities, foundations (esp. CNCF/CDF/OpenSSF), customers, partners and end users
   - Examples: Open Policy Agent (OPA), Falco, SPDX, etc.
 
 
