@@ -78,9 +78,8 @@ Dynatrace is growing, and we hire a lot of roles across the board.
 There are other positions that are about being published soon.
 So yes, we are potentially interested in many other roles!
 
-We are working on a generic way to submit applications to unpublished positions.
-In meantime, just send an email to [opensource@dynatrace.com](mailto://opensource@dynatrace.com)
-with a summary of what are you looking for and profile links.
+We are working on a generic way to submit spontaneous applications.
+Stay tuned!
 
 ### What about internships?
 
