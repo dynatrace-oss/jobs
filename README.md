@@ -9,7 +9,7 @@ open-source projects, standards and foundations.
 Click here to learn more: [open source at Dynatrace](https://engineering.dynatrace.com/open-source/).
 
 This GitHub repository aggregates links to all open source focused jobs at Dynatrace.
-If you are interested in all other job postings, go to the [Dynatrace careers portal](https://www.dynatrace.com/company/careers/).
+If you are interested in all other job postings, go to the [Dynatrace careers portal](https://careers.dynatrace.com/).
 
 ## Jobs
 
@@ -101,7 +101,7 @@ Just subscirbe to the updates!
 This repository is maintained by the Dynatrace Open Source Program Office (OSPO).
 It should not be considered an official source of information,
 some information may be outdated.
-The official careers portal can be found [here](https://www.dynatrace.com/company/careers/).
+The official careers portal can be found [here](https://careers.dynatrace.com/).
 
 ## Contributing
 
