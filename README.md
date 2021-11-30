@@ -37,17 +37,13 @@ If you are interested in all other job postings, go to the [Dynatrace careers po
     It includes but not limited to documentation,
     GitHub org management and automation, 
     internal and public advocacy for best practices.
-- [**Global Lead - Developer Relations @ Open Observability**](https://careers.dynatrace.com/jobs/00eeede2-0998-4442-b7a0-d986bf470af9/), any office or remote
-  - Lead and facilitate developer relations in the open observability domain,
-    with focus on combining open-source technologies with the Dynatrace platform
-  - Work with open-source communities, foundations (esp. CNCF/CDF), customers, partners and end users
-  - Examples: OpenTelemetry, CloudEvents, Prometheus, CD Events, etc.
-- [**Global Lead - Developer Relations @ Open Security**](https://careers.dynatrace.com/jobs/0ffafd11-5b66-4194-bf0a-24c26bbe5642/), any office or remote
+- **Global Lead - Developer Relations @ Open Security** - [Office](https://careers.dynatrace.com/jobs/0ffafd11-5b66-4194-bf0a-24c26bbe5642/) or
+  [Remote](https://careers.dynatrace.com/jobs/9a70251a-8cc0-468c-a92a-04455e29d085/)
   - Lead and facilitate developer relations in the open security area,
     with focus on combining open source technologies with the Dynatrace platform
   - Work with FOSS communities, foundations (esp. CNCF/CDF/OpenSSF), customers, partners and end users
   - Examples: Open Policy Agent (OPA), Falco, SPDX, etc.
-
+https://careers.dynatrace.com/jobs/9a70251a-8cc0-468c-a92a-04455e29d085/
 
 
 ## FAQ
