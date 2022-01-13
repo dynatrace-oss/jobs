@@ -32,7 +32,7 @@ If you are interested in all other job postings, go to the [Dynatrace careers po
 
 ### Open Source Program Office jobs
 
-- [**Technical Staff at OSPO (m/f/x)**](https://careers.dynatrace.com/jobs/7e3a0892-9fca-47c3-8083-8c4f3aa06616/), Linz
+- **GitHub Automation/Infrastructure Maintainer (m/f/x)**, [Linz]((https://careers.dynatrace.com/jobs/031ac509-80b5-4a80-99c5-4027b3052756/)), Any Office or Remote
   - Work on open source programs together with the open source program manager and the rest of the team.
     It includes but not limited to documentation,
     GitHub org management and automation, 
