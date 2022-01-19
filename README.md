@@ -15,6 +15,11 @@ If you are interested in all other job postings, go to the [Dynatrace careers po
 
 ### Open-source engineering jobs
 
+- **Software Engineer (m/f/x) for Kubernetes / Openshift** -
+  [Linz](https://careers.dynatrace.com/jobs/54226097-a6cb-451b-bfa3-1330042e4a52/)
+  - Contribute to our Golang based Kubernetes Operator, help us to improve usability and functionality of our Kubernetes integrations 
+  - Work on Open Source projects and provide important value to the Cloud Native community 
+  - Tech stack: Golang, Kubernetes
 - **Software Engineer (m/f/x) Open Standards and Integrations** - 
   [Vienna](https://careers.dynatrace.com/jobs/bb537bb8-fd46-43b9-ac88-f754b5a6177f/), 
   [Linz](https://careers.dynatrace.com/jobs/dc12ad24-3a5b-43de-839d-2b183ee37fa1/)
