@@ -35,6 +35,15 @@ If you are interested in all other job postings, go to the [Dynatrace careers po
   - Lead a new team focusing on developing [integrations for Keptn](https://keptn.sh/docs/integrations/)
   - Contribute to shaping our open-source vision and contribution process, including testing, CI/CD, and maintenance
 
+### Product Management - Open Source
+
+- **Principal Technical Product Manager (m/f/x) - Open source**,
+  [Linz](https://careers.dynatrace.com/jobs/a8d90e81-3737-4290-bbd5-465de4733187/)
+  - Drive the contributions of several engineering teams to key strategic open-source projects.
+    In the beginning this will Be OpenTelemetry, Kubernetes TAG Instrumentation, Falco and Open Policy Agent (OPA).
+  - Collaborate with stakeholders across open-source projects and foundations to drive projects forward in a collaborative setting. 
+  - Ensure that the requirements of internal teams towards open-source projects are reflected in Dynatrace contributions and aligned with greater community goals.  
+
 ### Open Source Program Office jobs
 
 - **GitHub Automation/Infrastructure Maintainer (m/f/x)**, [Linz]((https://careers.dynatrace.com/jobs/031ac509-80b5-4a80-99c5-4027b3052756/)), Any Office or Remote
