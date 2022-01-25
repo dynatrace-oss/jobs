@@ -9,7 +9,9 @@ open-source projects, standards and foundations.
 Click here to learn more: [open source at Dynatrace](https://engineering.dynatrace.com/open-source/).
 
 This GitHub repository aggregates links to all open source focused jobs at Dynatrace.
-If you are interested in all other job postings, go to the [Dynatrace careers portal](https://careers.dynatrace.com/).
+It is maintained by our _Open Source Program Office (OSPO)_;
+we try to update it on the weekly basis.
+Go to the [Dynatrace careers portal](https://careers.dynatrace.com/) for the actual and full list of openings.
 
 ## Jobs
 
@@ -80,8 +82,9 @@ Learn more about the [Dynatrace way of life](https://www.linkedin.com/company/dy
 
 ### Do you hire remotely?
 
-The OSPO team is distributed and hires remotely.
-And we are open to hiring remotely if the position allows for it. Please discuss it with the hiring manager. 
+Yes in general within the OSPO team we do if the position allows for it.
+Hiring remoely might be possible for other positions as well as relocations.
+Please discuss this within your first interview.
 
 Find out more about hybrid work at Dynatrace on our dedicated [blog post](https://engineering.dynatrace.com/blog/what-is-the-future-of-work-at-dynatrace/) 
 
