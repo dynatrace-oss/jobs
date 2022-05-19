@@ -19,9 +19,15 @@ Go to the [Dynatrace careers portal](https://careers.dynatrace.com/) for the act
 
 - **Software Engineer for Kubernetes / Openshift** -
   [Linz](https://careers.dynatrace.com/jobs/f6cf76bf-d062-4a4a-af83-dd13cbf92c36/)
-  - Contribute to our Golang based Kubernetes Operator, help us to improve usability and functionality of our Kubernetes integrations 
+  - Contribute to our Golang based Kubernetes Operator
+  - Help us to improve usability and functionality of our Kubernetes integrations 
   - Work on Open Source projects and provide important value to the Cloud Native community 
   - Tech stack: Golang, Kubernetes
+- **Software Engineer for OpenTelemetry** -
+  [Linz](https://careers.dynatrace.com/jobs/397c680d-1e89-4095-94ea-c105951cd6dc/)
+  - Be part of an agile software development team with a focus on OTel Logging and the OTel Colllector
+  - Represent Dynatrace in OpenTelemetry and other open-source projects
+  - Build integrations that connect Dynatrace with different open-source ecosystems    
 - **Software engineer for Keptn open-source development** - 
   [Vienna](https://careers.dynatrace.com/jobs/dae98ff2-9ca0-4ea5-8f89-2fdb26a1b2d8/)
   - Join the teams working on [Keptn](https://keptn.sh/) - an event-driven cloud native app orchestration tool
