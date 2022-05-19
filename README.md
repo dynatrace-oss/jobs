@@ -18,48 +18,34 @@ Go to the [Dynatrace careers portal](https://careers.dynatrace.com/) for the act
 ### Open-source engineering jobs
 
 - **Software Engineer (m/f/x) for Kubernetes / Openshift** -
-  [Linz](https://careers.dynatrace.com/jobs/54226097-a6cb-451b-bfa3-1330042e4a52/)
+  [Linz](https://careers.dynatrace.com/jobs/f6cf76bf-d062-4a4a-af83-dd13cbf92c36/)
   - Contribute to our Golang based Kubernetes Operator, help us to improve usability and functionality of our Kubernetes integrations 
   - Work on Open Source projects and provide important value to the Cloud Native community 
   - Tech stack: Golang, Kubernetes
-- **Software Engineer (m/f/x) Open Standards and Integrations** - 
-  [Vienna](https://careers.dynatrace.com/jobs/bb537bb8-fd46-43b9-ac88-f754b5a6177f/), 
-  [Linz](https://careers.dynatrace.com/jobs/dc12ad24-3a5b-43de-839d-2b183ee37fa1/)
-  - Build integrations that connect Dynatrace with different Open Source ecosystems 
-  - Tech stack: Golang, Java, Kubernetes, Git/GitHub.
-    Expertice with other languages is welcome
-- [**Software engineer for Keptn open-source development (m/f/x)**](https://careers.dynatrace.com/jobs/f17e8421-300f-4528-9f89-9505b273732e/), Vienna
+- **Software engineer for Keptn open-source development (m/f/x)** - 
+  [Vienna](https://careers.dynatrace.com/jobs/dae98ff2-9ca0-4ea5-8f89-2fdb26a1b2d8/)
   - Join the teams working on [Keptn](https://keptn.sh/) - an event-driven cloud native app orchestration tool
   which is now a part of the Cloud-Native Computing Foundation (CNCF)
   - Work on the Keptn core and [integrations](https://keptn.sh/docs/integrations/) with different services
   - Tech stack: Golang, Java, Kubernetes, Git/GitHub
-- **Team lead for Keptn open-source development (m/f/x)** - [Vienna](https://careers.dynatrace.com/jobs/6fda5f68-9ea9-4dea-86f2-3b6dc145ed49/), [Klagenfurt](https://careers.dynatrace.com/jobs/31672d90-7368-4e77-a54d-f0544f6a08ae/)
+- **Team lead for Keptn open-source development (m/f/x)** - 
+   [Vienna](https://careers.dynatrace.com/jobs/618abc66-39f9-4abc-b5cf-18e59e9665a0/),
+   [Klagenfurt](https://careers.dynatrace.com/jobs/55462375-d289-49ac-bcb6-91c902f6b324/)
   - Lead a new team focusing on developing [integrations for Keptn](https://keptn.sh/docs/integrations/)
   - Contribute to shaping our open-source vision and contribution process, including testing, CI/CD, and maintenance
 
-### Product Management - Open Source
-
-- **Principal Technical Product Manager (m/f/x) - Open source**,
-  [Linz](https://careers.dynatrace.com/jobs/a8d90e81-3737-4290-bbd5-465de4733187/)
-  - Drive the contributions of several engineering teams to key strategic open-source projects.
-    In the beginning this will Be OpenTelemetry, Kubernetes TAG Instrumentation, Falco and Open Policy Agent (OPA).
-  - Collaborate with stakeholders across open-source projects and foundations to drive projects forward in a collaborative setting. 
-  - Ensure that the requirements of internal teams towards open-source projects are reflected in Dynatrace contributions and aligned with greater community goals.  
-
 ### Open Source Program Office jobs
 
-- **GitHub Automation/Infrastructure Maintainer (m/f/x)**, [Linz]((https://careers.dynatrace.com/jobs/031ac509-80b5-4a80-99c5-4027b3052756/)), Any Office or Remote
-  - Work on open source programs together with the open source program manager and the rest of the team.
-    It includes but not limited to documentation,
-    GitHub org management and automation, 
-    internal and public advocacy for best practices.
-- **Global Lead - Developer Relations @ Open Observability** - [any office](https://careers.dynatrace.com/jobs/70df0568-f75f-49fc-8cb8-1ee9bdb6e530/) or [remote](https://careers.dynatrace.com/jobs/e40d8ac0-9b2f-4404-811c-dc767c936f01/)
+- **Global Lead - Developer Relations @ Open Observability** -
+  [any office](https://careers.dynatrace.com/jobs/70df0568-f75f-49fc-8cb8-1ee9bdb6e530/) or
+  [remote](https://careers.dynatrace.com/jobs/c21c91a7-2232-4f7a-af6d-10debbdebd35/)
   - Lead and facilitate developer relations in the open observability domain,
     with focus on combining open-source technologies with the Dynatrace platform
   - Work with open-source communities, foundations (esp. CNCF/CDF), customers, partners and end users
   - Examples: OpenTelemetry, CloudEvents, Prometheus, CD Events, etc.
-- **Global Lead - Developer Relations @ Cloud Security** - [Office](https://careers.dynatrace.com/jobs/c14a4eca-a551-43b7-8b8e-3b1f0b7a41b5/) or
-  [Remote](https://careers.dynatrace.com/jobs/5bfbdebf-98f4-4cf9-a52e-384b996da487/)
+- **Global Lead - Developer Relations @ Cloud Security** -
+  [any office](https://careers.dynatrace.com/jobs/92c920b2-dbbc-4ab0-8f9e-752f8a881365/) or
+  [remote](https://careers.dynatrace.com/jobs/c628540c-7017-425f-958c-749b0a7d5bf3/)
   - Lead and facilitate developer relations in the open security area,
     with focus on combining open source technologies with the Dynatrace platform
   - Work with FOSS communities, foundations (esp. CNCF/CDF/OpenSSF), customers, partners and end users
