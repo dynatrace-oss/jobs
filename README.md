@@ -39,6 +39,10 @@ Go to the [Dynatrace careers portal](https://careers.dynatrace.com/) for the act
    [Klagenfurt](https://careers.dynatrace.com/jobs/55462375-d289-49ac-bcb6-91c902f6b324/)
   - Lead a new team focusing on developing [integrations for Keptn](https://keptn.sh/docs/integrations/)
   - Contribute to shaping our open-source vision and contribution process, including testing, CI/CD, and maintenance
+- **Software Developer for Monitoring-as-Code (Monaco)** -
+  [Graz](https://careers.dynatrace.com/jobs/93914220-732b-466a-9116-f0e275a19adc/)
+  - Be part of the development team working on the [Monaco open-source project](https://github.com/dynatrace-oss/dynatrace-monitoring-as-code)
+  - Leave a footprint: Drive a new topic at Dynatrace and ensure pace and stability in the further development of Monaco
 
 ### Open Source Program Office jobs
 
