@@ -17,18 +17,18 @@ Go to the [Dynatrace careers portal](https://careers.dynatrace.com/) for the act
 
 ### Open-source engineering jobs
 
-- **Software Engineer (m/f/x) for Kubernetes / Openshift** -
+- **Software Engineer for Kubernetes / Openshift** -
   [Linz](https://careers.dynatrace.com/jobs/f6cf76bf-d062-4a4a-af83-dd13cbf92c36/)
   - Contribute to our Golang based Kubernetes Operator, help us to improve usability and functionality of our Kubernetes integrations 
   - Work on Open Source projects and provide important value to the Cloud Native community 
   - Tech stack: Golang, Kubernetes
-- **Software engineer for Keptn open-source development (m/f/x)** - 
+- **Software engineer for Keptn open-source development** - 
   [Vienna](https://careers.dynatrace.com/jobs/dae98ff2-9ca0-4ea5-8f89-2fdb26a1b2d8/)
   - Join the teams working on [Keptn](https://keptn.sh/) - an event-driven cloud native app orchestration tool
   which is now a part of the Cloud-Native Computing Foundation (CNCF)
   - Work on the Keptn core and [integrations](https://keptn.sh/docs/integrations/) with different services
   - Tech stack: Golang, Java, Kubernetes, Git/GitHub
-- **Team lead for Keptn open-source development (m/f/x)** - 
+- **Team lead for Keptn open-source development** - 
    [Vienna](https://careers.dynatrace.com/jobs/618abc66-39f9-4abc-b5cf-18e59e9665a0/),
    [Klagenfurt](https://careers.dynatrace.com/jobs/55462375-d289-49ac-bcb6-91c902f6b324/)
   - Lead a new team focusing on developing [integrations for Keptn](https://keptn.sh/docs/integrations/)
@@ -36,6 +36,11 @@ Go to the [Dynatrace careers portal](https://careers.dynatrace.com/) for the act
 
 ### Open Source Program Office jobs
 
+- **Open Source Compliance Expert** -
+  [Linz or Vienna](https://careers.dynatrace.com/jobs/b70701ce-c8ba-49f6-af2b-d8adf1a6ee7a/)
+  - Work with the legal, security and the OSPO teams to create and improve compliance automation processes and tooling.
+  - Facilitate adoption of SPDX and SBOMs within the company and its open source projects.
+  - Participate in implementing and promoting best open source and InnerSource collaboration practices.
 - **Global Lead - Developer Relations @ Open Observability** -
   [any office](https://careers.dynatrace.com/jobs/70df0568-f75f-49fc-8cb8-1ee9bdb6e530/) or
   [remote](https://careers.dynatrace.com/jobs/c21c91a7-2232-4f7a-af6d-10debbdebd35/)
