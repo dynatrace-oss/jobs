@@ -24,7 +24,8 @@ Go to the [Dynatrace careers portal](https://careers.dynatrace.com/) for the act
   - Work on Open Source projects and provide important value to the Cloud Native community 
   - Tech stack: Golang, Kubernetes
 - **Software Engineer for OpenTelemetry** -
-  [Linz](https://careers.dynatrace.com/jobs/397c680d-1e89-4095-94ea-c105951cd6dc/)
+  [Linz](https://careers.dynatrace.com/jobs/397c680d-1e89-4095-94ea-c105951cd6dc/),
+  [Vienna](https://careers.dynatrace.com/jobs/8d1e42c4-b6f1-4afd-97d4-13d56398f287/)
   - Be part of an agile software development team with a focus on OTel Logging and the OTel Colllector
   - Represent Dynatrace in OpenTelemetry and other open-source projects
   - Build integrations that connect Dynatrace with different open-source ecosystems    
