@@ -53,15 +53,15 @@ Go to the [Dynatrace careers portal](https://careers.dynatrace.com/) for the act
   - Facilitate adoption of SPDX and SBOMs within the company and its open source projects.
   - Participate in implementing and promoting best open source and InnerSource collaboration practices.
 - **Global Lead - Developer Relations @ Open Observability** -
-  [any office](https://careers.dynatrace.com/jobs/70df0568-f75f-49fc-8cb8-1ee9bdb6e530/) or
-  [remote](https://careers.dynatrace.com/jobs/c21c91a7-2232-4f7a-af6d-10debbdebd35/)
+  [any office](https://careers.dynatrace.com/jobs/92c920b2-dbbc-4ab0-8f9e-752f8a881365/) or
+  [remote](https://careers.dynatrace.com/jobs/c628540c-7017-425f-958c-749b0a7d5bf3/)
   - Lead and facilitate developer relations in the open observability domain,
     with focus on combining open-source technologies with the Dynatrace platform
   - Work with open-source communities, foundations (esp. CNCF/CDF), customers, partners and end users
   - Examples: OpenTelemetry, CloudEvents, Prometheus, CD Events, etc.
 - **Global Lead - Developer Relations @ Cloud Security** -
-  [any office](https://careers.dynatrace.com/jobs/92c920b2-dbbc-4ab0-8f9e-752f8a881365/) or
-  [remote](https://careers.dynatrace.com/jobs/c628540c-7017-425f-958c-749b0a7d5bf3/)
+  [any office](https://careers.dynatrace.com/jobs/c21c91a7-2232-4f7a-af6d-10debbdebd35/) or
+  [remote](https://careers.dynatrace.com/jobs/72fd0c2e-886a-4e43-a48d-85ab43b778be/)
   - Lead and facilitate developer relations in the open security area,
     with focus on combining open source technologies with the Dynatrace platform
   - Work with FOSS communities, foundations (esp. CNCF/CDF/OpenSSF), customers, partners and end users
